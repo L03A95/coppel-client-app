@@ -1,0 +1,10 @@
+{
+  "expo": {
+    "name": "coppel-client-app",
+    "slug": "coppel-client-app",
+    "version": "1.0.0",
+    "assetBundlePatterns": [
+      "**/*"
+    ]
+  }
+}
